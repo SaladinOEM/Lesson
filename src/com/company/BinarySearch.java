@@ -6,5 +6,5 @@ public class BinarySearch {
     int from = 0;
     int to = array.lenght - 1;
 
-
+fhfhfh
 }
